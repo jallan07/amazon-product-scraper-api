@@ -1,1 +1,1 @@
-https://www.youtube.com/watch?v=be9sHQ7xqo0
+Documentation & usage: https://rapidapi.com/jallan07/api/amazon-product-scraper1
